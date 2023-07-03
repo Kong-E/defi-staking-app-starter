@@ -1,4 +1,4 @@
-pragma solidity '^0.5.0';
+pragma solidity ^0.5.0;
 
 contract Migrations {
     address public owner; // 외부에서 계약에 접근해야 하므로
